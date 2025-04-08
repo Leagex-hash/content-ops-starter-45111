@@ -105,10 +105,12 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Sustainability means making sure that our food systems (how we grow,
+          produce, and distribute food) are good for the environment, society,
+          and the economy. This ensures that future generations will have enough
+          food without harming the planet or running out of resources.
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
