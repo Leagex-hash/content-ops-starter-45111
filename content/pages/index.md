@@ -260,7 +260,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Partner with us
       color: text-dark
       styles:
         self:
