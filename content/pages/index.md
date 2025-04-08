@@ -207,11 +207,42 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      ### 1. Partner with Us
+
+
+      We collaborate with businesses, malls, and food retailers that have end of
+      shelf life profucts at the end of the day. These partners offer us
+      discounted prices on items that are still safe to consume, preventing
+      perfectly good food from being wasted.
+
+
+      ### 2. Discounted Bulk Purchase
+
+
+      We end of shelf life food in bulk at a reduced price. This allows us to
+      keep costs low while ensuring that the food remains safe and nutritious
+      when placed in our vending machines.
+
+
+      ### 3. Vending Machine Distribution
+
+
+      The food is then distributed through strategically placed vending machines
+      located in high-traffic areas. These machines are stocked regularly and
+      are designed to be easily accessible for people from all walks of life.
+
+
+      ### 4. Affordable Access for All
+
+
+      By offering food that are the end of shelf life at lower prices than
+      typical supermarkets and retailers, we make sure that everyone, especially
+      people from low-income backgrounds, can access nutritious meals. Our goal
+      is to keep prices affordable.
+
+
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
