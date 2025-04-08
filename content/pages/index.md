@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team your time to production
+      text: Plenty2Go
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
