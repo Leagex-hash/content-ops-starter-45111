@@ -80,10 +80,10 @@ sections:
               borderRadius: x-large
       - title: 'Stability:'
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Ensures that food supply, access, and utilization are consistently
+          maintained over time
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
