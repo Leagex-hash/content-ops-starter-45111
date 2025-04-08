@@ -7,7 +7,7 @@ sections:
       text: Plenty2Go
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Our Goal
     text: ''
     actions:
       - label: Get started
