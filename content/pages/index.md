@@ -282,7 +282,7 @@ sections:
       text: Partner with us
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: ''
     text: |+
       A service that helps people in need while increasing your reputation
 
