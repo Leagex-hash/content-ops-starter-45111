@@ -103,7 +103,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
+      - title: 'Sustainability:'
         subtitle: ''
         text: >+
           Sustainability means making sure that our food systems (how we grow,
