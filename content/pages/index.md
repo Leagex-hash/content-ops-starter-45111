@@ -267,9 +267,8 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: ''
-    text: |+
-      A service that helps people in need while increasing your reputation
-
+    text: |
+      A service that helps people in need while increasing your reputation.
     actions: []
     media:
       title: Title of the video
