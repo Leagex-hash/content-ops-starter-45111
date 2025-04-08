@@ -52,10 +52,10 @@ sections:
       - type: FeaturedItem
         title: 'Availability:'
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Ensures that there is enough food produced or imported to meet the
+          people's needs
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
