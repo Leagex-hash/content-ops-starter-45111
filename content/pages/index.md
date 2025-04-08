@@ -283,9 +283,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |+
+      A service that helps people in need while increasing your reputation
+
     actions:
       - label: Get started
         url: /
