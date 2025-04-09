@@ -294,7 +294,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: ''
-        tagline: Testimonial 2
+        tagline: ''
         subtitle: ''
         text: ''
         image:
