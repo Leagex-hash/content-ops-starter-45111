@@ -237,33 +237,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - title:
-      text: Partner with us
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
-    text: |+
-      A service that helps people in need while increasing your reputation
-
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-    media:
-      altText: Fun feature preview
-      type: ImageBlock
-    badge:
-      label: ''
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
   - type: CarouselSection
     subtitle: What our customers say about us
     items:
@@ -324,6 +297,33 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - title:
+      text: Partner with us
+      color: text-dark
+      type: TitleBlock
+    subtitle: ''
+    text: |+
+      A service that helps people in need while increasing your reputation
+
+    actions:
+      - label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        type: Button
+    media:
+      altText: Fun feature preview
+      type: ImageBlock
+    badge:
+      label: ''
+      color: text-primary
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+    type: GenericSection
   - title:
       text: Contact Us
       color: text-dark
