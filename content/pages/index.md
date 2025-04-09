@@ -41,7 +41,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Why we chose this sdg (reducing inequalities)?
+      text: Why we chose this SDG (Reducing inequalities)?
       color: text-dark
       styles:
         self:
