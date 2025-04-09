@@ -270,7 +270,7 @@ sections:
       - type: FeaturedItem
         title: ''
         tagline: ''
-        subtitle: 'Maria Walters, Company'
+        subtitle: ''
         text: ''
         image:
           type: ImageBlock
